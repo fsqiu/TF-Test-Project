@@ -1,0 +1,5 @@
+Goals of this project:
+
+Become more familiar with TensorFlow Library.
+
+Apply a variety of machine learning algorithms as generically as possible.
