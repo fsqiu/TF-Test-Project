@@ -1,3 +1,7 @@
+#Datasets
+datasets/
+
+#Byte Compiled
 __pycache__/
 *.py[cod]
 *$py.class
