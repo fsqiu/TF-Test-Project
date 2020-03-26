@@ -1,3 +1,7 @@
+#taken from https://www.tensorflow.org/tutorials/quickstart/beginner
+#used to test the tensorflow environment and some basic functions
+
+
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 import tensorflow as tf
