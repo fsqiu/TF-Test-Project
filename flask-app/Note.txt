@@ -1,0 +1,1 @@
+Due to Windows currently not supporting allowing containers to share the GPU, I will probably not be continuing along the path of using Docker.
